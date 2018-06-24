@@ -1,0 +1,24 @@
+#display{
+    width: 350px;
+    height: 500px;
+    background-color: #3c3d3d;
+    color: white;
+}
+#marks{
+    width: 350px;
+    height: 500px;
+    background-color: #3c3d3d;
+    color: white;
+}
+#reload{
+   
+    padding: 15px;
+    border-radius: 100px;
+    border-style: none;
+    background-color: #018fee;
+    font-size: 24px;
+    color: white;
+}
+.head1{
+     font-size: 25px;   
+}
